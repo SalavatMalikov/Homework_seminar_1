@@ -14,12 +14,12 @@ int max = 0;
 if(number1>number2)
 {
     max = number1;
-    Console.WriteLine("max=" + max);
+    Console.WriteLine(max);
 }
 else if (number1<number2)
 {
     max = number2;
-    Console.WriteLine("max=" + max);
+    Console.WriteLine(max);
 }
 else
 {
